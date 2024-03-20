@@ -7,3 +7,5 @@
 ### [Тестирование различных методов машинного обучения для временных рядов](https://github.com/2reckey/Math_and_ML_Tests/tree/main/Exchange)  
 
 ### [Экзамен по Дисциплине Машинное обучение 5 семестр](https://github.com/2reckey/Math_and_ML_Tests/tree/main/Exam_ML_FA)
+
+### [Тестирование различных подходов машинного обучения на данных из Kaggle](https://github.com/2reckey/Math_and_ML_Tests/tree/main/Kaggle)

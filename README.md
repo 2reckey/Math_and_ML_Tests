@@ -8,4 +8,4 @@
 
 ### [Экзамен по Дисциплине Машинное обучение 5 семестр](https://github.com/2reckey/Math_and_ML_Tests/tree/main/Exam_ML_FA)
 
-### [Тестирование библиотек PyCaret + Shap + Optuna](https://github.com/2reckey/Math_and_ML_Tests/tree/main/PyCaret%20Test)
+### [Тестирование библиотеки PyCaret](https://github.com/2reckey/Math_and_ML_Tests/tree/main/PyCaret%20Test)
